@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+.vsconfig
+Assets/Scenes.meta
+Assets/Scenes/SampleScene.unity.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/*.asset
+ProjectSettings/ProjectVersion.txt
